@@ -3,6 +3,8 @@ Pero aprenderá algunos conceptos realmente importantes que lo acercarán más a
 la optimización de códigos y la seguridad.
 
 #Final de la lección
+
+
 Recapitulemos:
 Hemos añadido una forma de actualizar nuestros contratos CryptoKitties
 Hemos aprendido a proteger las funciones básicas con onlyOwner
